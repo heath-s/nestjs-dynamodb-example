@@ -41,7 +41,7 @@
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.5",
     "uuid": "^7.0.3",
-    "xlsx": "^0.15.6"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^6.13.2",
